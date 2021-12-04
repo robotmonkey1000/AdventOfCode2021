@@ -4,7 +4,7 @@
 I'm Writing this in **C#** to practice.
 
 ## Day's Completed?
-Day 1 and Day 2.
+1,2,3!
 
 ## Are you going to do all the days?
 Only if I have time. It's exam season so I am a little tight on time.
